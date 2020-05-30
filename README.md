@@ -17,7 +17,7 @@ It was implemented as homework for an AI discipline in the 90's, just for fun.
 
 The heuristic search algorithm is simple and explores a limited number of network structures. On the other hand, the exhaustive search algorithm is complex and explores many possible network structures.
 
-The following is a Pascal program by Niklaus Wirth in 1976.[20] It finds one solution to the eight queens problem.
+The following is a Pascal program by Niklaus Wirth in 1976. It finds one solution to the eight queens problem.
 
 ```
 program eightqueen1(output);
@@ -66,3 +66,5 @@ begin
   writeln
 end
 ```
+
+References: https://en.wikipedia.org/wiki/Eight_queens_puzzle
