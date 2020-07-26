@@ -13,6 +13,18 @@ It was implemented as homework for an AI discipline in the 90's, just for fun.
   </tr>
 </table>
 
+# Ruby version
+
+There is also a Ruby version inspired by a RubyCodeClinic. To run this, you should be ruby installed, of course.
+
+$ ruby n_queen.rb
+
+<table width:100%>
+  <tr>
+    <td><img src="./_/The8QueensRuby_img1.jpg"></td>
+  </tr>
+</table>
+
 # Algorithm
 
 The heuristic search algorithm is simple and explores a limited number of network structures. On the other hand, the exhaustive search algorithm is complex and explores many possible network structures.
