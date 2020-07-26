@@ -70,7 +70,7 @@ def add_board_to_solutions(board)
   # keep changing and be assigned new positions.
 end
 
-@verbose = true
+@verbose = false
 @solution_boards = []
 @board = Board.new(:size => 8) 
 
